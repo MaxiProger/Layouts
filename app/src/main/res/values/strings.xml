@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="_50">-100</string>
+    <string name="__50">+100</string>
+    <string name="channel">Channel:</string>
+    <string name="_1">+1</string>
+    <string name="actual">Actual:</string>
+    <string name="set_value">Set value:</string>
+</resources>
